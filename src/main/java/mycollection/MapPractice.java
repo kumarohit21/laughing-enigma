@@ -15,6 +15,9 @@ public class MapPractice {
 		productMap.put(receBike.getName(), receBike);
 		
 		System.out.println(productMap.get(receBike.getName()));
+		
+		
+		
 
 	}
 }
